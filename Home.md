@@ -1,6 +1,6 @@
-# Welcome
+# Zimbra Converter - Solution to Export TGZ Files into Multiple Formats
 
-Welcome to your wiki! This is the default page we've installed for your convenience. Go ahead and edit it.
+Zimbra is a popular open-source desktop based email client application. But now,there are number of users who want to switch from Zimbra into some other application which should be advance, reliable and more secure to access as compared to Zimbra i.e. MS Outlook. As Zimbra is a widely used email client program but still it lacks in few functionalities. So, keeping all requirements and need of users, developers came up with Zimbra Export aka Zimbra Converter Tool. The application is good to operate and delivers each and every function that users want in a single and cost-effective utility. Zimbra Converter is equipped with simple and comprehensible interface so that it can be used not only by professionals but also by novice users. It offers multiple file saving formats so that users do not need to buy separate application to export TGZ to PST, PDF, MSG, EML, MBOX and NSF. 
 
 ## Wiki features
 
