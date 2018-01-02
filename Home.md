@@ -17,13 +17,11 @@ Zimbra is a popular open-source desktop based email client application. But now,
 
 ### Convert Zimbra Files to Multiple Formats - Step by Step Process ###
 ```
-Before conversion, quickly extract all Zimbra mailbox files in TGZ format and unzip the same by taking help of WinRAR or any other program.
-```
 1. Download Zimbra Converter on the system
-1. Click on Add File or Add Folder button to load TGZ files for conversion
-1. Choose the required file saving format option: PST, PDF, MSG, EML, MBOX and NSF
-1. Separate sections to export Zimbra Contacts and Zimbra Calendar. Choose accordingly
-1. Select the destination path to save resultant file by clicking on Browse button
-1. Click on Convert button to start the conversion process
+2. Click on Add File or Add Folder button to load TGZ files for conversion
+3. Choose the required file saving format option: PST, PDF, MSG, EML, MBOX and NSF
+4. Separate sections to export Zimbra Contacts and Zimbra Calendar. Choose accordingly
+5. Select the destination path to save resultant file by clicking on Browse button
+6. Click on Convert button to start the conversion process
 
 After done with the above steps, now the software start the conversion of Zimbra mailbox with contacts, briefcase, emails, calendar information etc. All the data will remain in an exact form after successful migration. Users can download the demo edition and try the application by performing the 20 Zimbra mail file conversion.
